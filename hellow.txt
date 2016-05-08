@@ -1,4 +1,0 @@
-first line
-hellow everybody
-testing pull on local machine
-print("hellow branch")
