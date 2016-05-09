@@ -1,7 +1,4 @@
-first line;
-hellow everybody;
-testing pull on local machine;
-print("hello branch")
-print("start learning comflict Hello my dear friend;")
-print("glad to see you;")
+print("hello")
+print("hello branch-1")
+print("hello branch-2")
 
