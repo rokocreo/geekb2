@@ -1,6 +1,7 @@
-first line
-hellow everybody
-testing pull on local machine
+first line;
+hellow everybody;
+testing pull on local machine;
 print("hello branch")
-print("start learning comflict Hello my dear friend")
-print("glad to see you")
+print("start learning comflict Hello my dear friend;")
+print("glad to see you;")
+
