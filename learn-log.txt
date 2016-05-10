@@ -1,5 +1,5 @@
 2016-05-06; SmartGit install, clone, commit, push, pull, log, revert, disgard 
 2016-05-08; create branch, merge, delete branch
 2016-05-09; abort merge, solve conflict
-2016-05-10; ignore
+2016-05-10; ignore, cmd, cd, dir, git console, ? git clone, git status, git add, git commit -a -m "comment", git push origin  
 
